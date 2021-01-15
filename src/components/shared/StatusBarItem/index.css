@@ -1,0 +1,9 @@
+.status-bar-item {
+	margin-left: 4px;
+	margin-right: 4px
+}
+
+.status-bar-item:hover {
+	background-color: #1F8AD2;
+	cursor: pointer;
+}

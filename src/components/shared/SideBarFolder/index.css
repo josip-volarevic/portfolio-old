@@ -1,0 +1,32 @@
+.folder {
+	user-select: none;
+}
+
+.folder-button {
+	height: 26px;
+	width: 100%;
+	padding-left: 14px;
+	font-size: 12px;
+	display: block;
+	text-align: left;
+	background: none;
+	color: inherit;
+	border: none;
+	cursor: pointer;
+}
+
+.folder-button:hover {
+	background: #37373D;
+}
+
+.folder-button:focus {
+	outline:0;
+}
+
+.folder-icon {
+	padding-right: 6px;
+}
+
+.folder-icon--folder {
+	color: #4CAF50;
+}

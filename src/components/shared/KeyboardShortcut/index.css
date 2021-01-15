@@ -1,0 +1,31 @@
+.keyboard-shortcut {
+	display: flex;
+	align-items: center;
+	line-height: 10px;
+}
+
+.keyboard-shortcut-key {
+	background-color: hsla(0,0%,50%,.17);
+	color: #ccc;
+	border: 1px solid rgba(51,51,51,.6);
+	border-bottom-color: rgba(68,68,68,.6);
+	box-shadow: inset 0 -1px 0 rgba(68,68,68,.6);
+	display: inline-block;
+	border-radius: 3px;
+	vertical-align: middle;
+	font-size: 11px;
+	padding: 3px 5px;
+	margin: 0 2px;
+}
+
+.keyboard-shortcut>.keyboard-shortcut-key:first-child {
+	margin-left: 0
+}
+
+.keyboard-shortcut>.keyboard-shortcut-key:last-child {
+	margin-right: 0
+}
+
+.keyboard-shortcut>.keyboard-shortcut-separator {
+	display: inline-block;
+}

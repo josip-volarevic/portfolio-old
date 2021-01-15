@@ -1,0 +1,27 @@
+.markdown-file {
+	font-size: 12px;
+	color: #CCCCCC;
+	user-select: none;
+}
+
+.markdown-file-icon {
+	padding-right: 6px;
+	color: #42A5F5;
+}
+
+.markdown-file-title {
+	line-height: 22px;
+}
+
+.markdown-file-link {
+	display: block;
+	padding: 2px 12px 2px 38px;
+	height: calc(100% - 4px);
+	white-space: nowrap;
+  overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.markdown-file-link--active, .markdown-file-link:hover {
+	background: #37373D;
+}

@@ -1,0 +1,31 @@
+.instructions {
+	display: block;
+	position: absolute;
+	width: 100%;
+	top: calc(50% + 55px);
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+	user-select: none;
+}
+.instructions-box {
+	display: inline-table;
+	border-collapse: separate;
+	border-spacing: 13px 17px;
+}
+.instructions dl, .instructions dl {
+	color: hsla(0,0%,100%,.6);
+}
+.instructions dd {
+	display: table-cell;
+	text-align: left;
+}
+
+.instructions dt {
+	color: hsla(0,0%,100%,.6);
+}
+
+.instructions dl {
+	display: table-row;
+	opacity: .8;
+}

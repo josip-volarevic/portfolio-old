@@ -1,0 +1,34 @@
+.activity-bar {
+	height: 100%;
+}
+
+.activity-bar-list {
+	height: 100%;
+	padding: 0 0 12px 0;
+	margin: 0;
+	width: 100%;
+	text-align: center;
+	list-style-type: none;
+}
+
+.activity-bar-list>.activity-bar-item:nth-last-child(2) {
+	margin-top: auto;
+}
+
+.activity-bar-list>.activity-bar-item:first-child {
+	color: white;
+	border-left: 2px solid white;
+}
+
+.activity-bar-item {
+	color: #9e9e9e;
+	padding: 14px 0;
+}
+
+.activity-bar-item:hover {
+	color: white;
+}
+
+.activity-bar-icon {
+	font-size: 26px;
+}

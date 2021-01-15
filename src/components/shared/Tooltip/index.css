@@ -1,0 +1,31 @@
+.tooltip-wrapper {
+	height: 100%;
+}
+
+.tooltip-wrapper:hover .tooltip {
+	visibility: visible;
+	transition-delay: 0.3s;
+	opacity: 1;
+}
+
+.tooltip {
+	position: absolute;
+	color: #555;
+	background-color: white;
+	height: 18px;
+	font-size: 12px;
+	line-height: 18px;
+	padding: 2px 4px;
+	margin: -21px 0 0 10px;
+	border-radius: 1px;
+	z-index: 1;
+	opacity: 0;
+	user-select: none;
+	visibility: hidden;
+	justify-content: center;
+	box-sizing: content-box;
+}
+
+.tooltip--reverse {
+	margin-left: -110px;
+}

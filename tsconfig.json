@@ -1,6 +1,9 @@
 {
   "compilerOptions": {
-    "target": "es5",
+		"target": "es5",
+		"typeRoots": [
+      "node_modules/@types", "./typings.d.ts"
+    ],
     "lib": [
       "dom",
       "dom.iterable",
@@ -18,9 +21,12 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+		"jsx": "react-jsx",
+		"baseUrl": "src",
   },
   "include": [
-    "src"
-  ]
+		"src",
+		"../common"
+	],
+	"exclude": ["node_modules", "**/*.spec.ts"]
 }

@@ -1,0 +1,46 @@
+.activity-bar {
+	background-color: #252526;
+}
+
+.side-bar {
+	color: #CCCCCC;
+	background-color: #1B1B1B;
+}
+
+.side-bar-title {
+	margin-left: 14px;
+	font-size: 11px;
+}
+
+.editor-groups {
+	background-color: #1B1B1B;
+}
+
+.editor-groups .markdown-file-link {
+	background: #141414;
+	margin: 0 auto;
+	height: 100%;
+	padding: 0 14px;
+}
+
+.editor-groups .markdown-file-title {
+	line-height: 35px;
+	font-style: italic;
+}
+
+.status-bar {
+	font-size: 12px;
+	line-height: 22px;
+	padding: 0 12px;
+	color: white;
+	background-color: #007ACC;
+}
+
+.status-bar-icon {
+	height: 100%;
+	padding: 0 6px;
+}
+
+.status-bar-span {
+	padding-right: 6px;
+}
