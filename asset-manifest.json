@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a281316.chunk.css",
-    "main.js": "/static/js/main.a0cd9088.chunk.js",
-    "main.js.map": "/static/js/main.a0cd9088.chunk.js.map",
+    "main.css": "/static/css/main.86397a7a.chunk.css",
+    "main.js": "/static/js/main.629dc717.chunk.js",
+    "main.js.map": "/static/js/main.629dc717.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
     "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
     "static/js/2.3a0d8ee2.chunk.js": "/static/js/2.3a0d8ee2.chunk.js",
     "static/js/2.3a0d8ee2.chunk.js.map": "/static/js/2.3a0d8ee2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1a281316.chunk.css.map": "/static/css/main.1a281316.chunk.css.map",
+    "static/css/main.86397a7a.chunk.css.map": "/static/css/main.86397a7a.chunk.css.map",
     "static/js/2.3a0d8ee2.chunk.js.LICENSE.txt": "/static/js/2.3a0d8ee2.chunk.js.LICENSE.txt",
     "static/media/ABOUT_ME.a84e2976.md": "/static/media/ABOUT_ME.a84e2976.md",
     "static/media/EDUCATION.cf848a97.md": "/static/media/EDUCATION.cf848a97.md",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.2fd7dc15.js",
     "static/js/2.3a0d8ee2.chunk.js",
-    "static/css/main.1a281316.chunk.css",
-    "static/js/main.a0cd9088.chunk.js"
+    "static/css/main.86397a7a.chunk.css",
+    "static/js/main.629dc717.chunk.js"
   ]
 }
