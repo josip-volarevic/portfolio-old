@@ -28,6 +28,15 @@ a {
 	background: #4F4F4F;
 }
 
+#ace-editor, #ace-editor *{
+	font-size: 14px !important;
+}
+
+div[name="react-console-emulator"], div[name="react-console-emulator"] * {
+	font-size: 13px !important;
+	font-family: Segoe WPC,Segoe UI,sans-serif !important;
+}
+
 .ace_scroller {
 	left: 58px !important;
 }
