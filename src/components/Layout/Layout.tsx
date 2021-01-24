@@ -28,6 +28,7 @@ const Layout: React.FC = ({ children }) => {
 							paddingTop: 10,
 							backgroundColor: '#141414',
 						}}
+						as="main"
 					>
 						{children}
 					</Row>
